@@ -23,5 +23,10 @@
     "icon": "Book",
     "name": "学习通",
     "link": "http://i.mooc.chaoxing.com/"
+  },
+   {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.163.com/#/my/m/music"
   }
 ]
